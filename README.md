@@ -46,4 +46,8 @@ Web-based voting system built with PHP and MySQL.
 
 ## Reference Images
 
-- [Admin Images](https://docs.google.com/document/d/12ZJhS-xcs2cW5QB-VQUUJYhVluY4Pdy2KysCQ6w25fk/edit?usp=sharing)
+- [Admin Images](https://docs.google.com/document/d/12ZJhS-xcs2cW5QB-VQUUJYhVluY4Pdy2KysCQ6w25fk/edit?usp=sharing) — contains screenshots of all admin panels
+
+### Admin Page
+
+![Admin Page](images/admin_page.png)
